@@ -36,7 +36,7 @@ TO RUN THIS PROJECT , YOU NEED TO HAVE PYTHON INSTALLED ALONG WITH THE FOLLOWING
 RESULTS
 The project provides insights into:
 - The relationship between AQI Levels and the prevalence of Diseases
-= The impact of specific pollutants on Mortality rates
+- The impact of specific pollutants on Mortality rates
 - Temporal Trends in air quality and health outcomes
 
 CONTRIBUTIONS
